@@ -6,7 +6,7 @@ This deseq2 workflow uses RNA-seq data from the following BioProject `PRJNA49410
 This script outputs a volcano plot with log2 fold change on the x-axis, log10 P values on the y-axis (for the adjusted p-values), and colors significant dots (adjusted P-value<0.05) red and insignificant dots black.
 
 
-
+![image](https://github.com/Genevieve-Baddoo/deseq2_rnaseq_workflow/blob/main/deseq2_workflow_output.png)
 
 
 
