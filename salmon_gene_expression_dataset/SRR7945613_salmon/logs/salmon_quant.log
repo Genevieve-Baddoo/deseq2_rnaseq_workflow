@@ -1,0 +1,39 @@
+[2021-11-24 14:58:03.255] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2021-11-24 14:58:03.255] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2021-11-24 14:58:03.255] [jointLog] [info] Usage of --validateMappings implies use of range factorization. rangeFactorizationBins is being set to 4
+[2021-11-24 14:58:03.255] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 1. Setting consensusSlack to 1.
+[2021-11-24 14:58:03.255] [jointLog] [info] parsing read library format
+[2021-11-24 14:58:03.255] [jointLog] [info] There is 1 library.
+[2021-11-24 14:58:03.295] [jointLog] [info] Loading Quasi index
+[2021-11-24 14:58:03.295] [jointLog] [info] Loading 32-bit quasi index
+[2021-11-24 14:58:03.324] [jointLog] [info] done
+[2021-11-24 14:58:03.324] [jointLog] [info] Index contained 178 targets
+[2021-11-24 14:58:12.800] [jointLog] [info] Automatically detected most likely library type as SR
+[2021-11-24 14:58:23.125] [jointLog] [info] Thread saw mini-batch with a maximum of 0.18% zero probability fragments
+[2021-11-24 14:58:23.126] [jointLog] [info] Thread saw mini-batch with a maximum of 0.18% zero probability fragments
+[2021-11-24 14:58:23.128] [jointLog] [info] Thread saw mini-batch with a maximum of 0.22% zero probability fragments
+[2021-11-24 14:58:23.133] [jointLog] [info] Thread saw mini-batch with a maximum of 0.22% zero probability fragments
+[2021-11-24 14:58:23.136] [jointLog] [info] Thread saw mini-batch with a maximum of 0.20% zero probability fragments
+[2021-11-24 14:58:23.137] [jointLog] [info] Thread saw mini-batch with a maximum of 0.20% zero probability fragments
+[2021-11-24 14:58:23.140] [jointLog] [info] Thread saw mini-batch with a maximum of 0.22% zero probability fragments
+[2021-11-24 14:58:23.143] [jointLog] [info] Thread saw mini-batch with a maximum of 0.18% zero probability fragments
+[2021-11-24 14:58:23.154] [jointLog] [info] Computed 179 rich equivalence classes for further processing
+[2021-11-24 14:58:23.154] [jointLog] [info] Counted 90,790 total reads in the equivalence classes 
+[2021-11-24 14:58:23.157] [jointLog] [warning] Only 90790 fragments were mapped, but the number of burn-in fragments was set to 5000000.
+The effective lengths have been computed using the observed mappings.
+
+[2021-11-24 14:58:23.157] [jointLog] [info] Mapping rate = 0.358905%
+
+[2021-11-24 14:58:23.157] [jointLog] [info] finished quantifyLibrary()
+[2021-11-24 14:58:23.157] [jointLog] [info] Starting optimizer
+[2021-11-24 14:58:23.158] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2021-11-24 14:58:23.158] [jointLog] [info] iteration = 0 | max rel diff. = 1781.3
+[2021-11-24 14:58:23.161] [jointLog] [info] iteration = 100 | max rel diff. = 1.9644e-16
+[2021-11-24 14:58:23.161] [jointLog] [info] Finished optimizer
+[2021-11-24 14:58:23.161] [jointLog] [info] writing output 
+
+[2021-11-24 14:58:23.154] [fileLog] [info] 
+At end of round 0
+==================
+Observed 25296375 total fragments (25296375 in most recent round)
+

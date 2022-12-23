@@ -1,0 +1,7 @@
+pop center assay sample experiment run condition
+spnE spnE spnE spnE spnE SRR7945622_salmon mutant
+spnE spnE spnE spnE spnE SRR7945623_salmon mutant
+spnE spnE spnE spnE spnE SRR7945628_salmon mutant
+spnE spnE spnE spnE spnE SRR7945609_salmon control
+spnE spnE spnE spnE spnE SRR7945611_salmon control
+spnE spnE spnE spnE spnE SRR7945613_salmon control

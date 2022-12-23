@@ -1,0 +1,10 @@
+{
+    "salmon_version": "0.12.0",
+    "": "reads",
+    "validateMappings": [],
+    "index": "indexed_TEome",
+    "libType": "A",
+    "unmatedReads": "SRR7945623.fastq",
+    "output": "SRR7945623_salmon",
+    "auxDir": "aux_info"
+}
